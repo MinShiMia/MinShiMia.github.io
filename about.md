@@ -10,7 +10,7 @@ As a research assistant, I have gained extensive experience in data collection, 
 
 In addition to my academic work, I have practical experience as a database management intern, where I utilized tools like MySQL and Microsoft Visio to streamline data processes and create impactful business analytics reports. I have led and collaborated on diverse group projects, ranging from designing payroll management systems to handling big geospatial data using Hadoop and Spark.
 
-Please learn more about me and my projects via [my resume](https://minshimia.github.io/Resume_Min_Shi.pdf), [my LinkedIn profile](https://www.linkedin.com/in/min-mia-shi/) and [GitHub website](https://minshimia.github.io).
+Please learn more about me and my projects via [my resume](https://minshimia.github.io/Resume_Mia_Shi.pdf), [my LinkedIn profile](https://www.linkedin.com/in/min-mia-shi/) and [GitHub website](https://minshimia.github.io).
 
 If you're interested in connecting or discussing potential collaborations, I would love to hear from you. Let's leverage the power of data to drive meaningful insights and make a positive impact together.
 
